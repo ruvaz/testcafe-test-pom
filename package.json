@@ -1,0 +1,12 @@
+{
+  "name": "testcafe_workshop",
+  "version": "1.0.0",
+  "description": "Testcafe projcet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-all-chrome": "testcafe chrome ./page_model/tests"
+  },
+  "author": "Ruben Vazquez",
+  "license": "ISC"
+}
